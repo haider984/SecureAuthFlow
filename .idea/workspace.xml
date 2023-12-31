@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b50ea43a-526e-41fa-ab0e-98ba99901651" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UQ2LNhfSuSYeMgqNwLnsj9BkOt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/desktop/Workspace/springBoot codes/SecureAuthFlow",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "23ac74dee46cb88a0fe2fe8304210431",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\desktop\haider\springBoot codes\spring-security\spring-security-client\src\main\java\com\demo\springsecurityclient" />
+      <recent name="D:\desktop\haider\springBoot codes\spring-security\spring-security-client\src\main\java\com\demo" />
+      <recent name="D:\desktop\haider\springBoot codes\spring-security" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.main.java.com.example.oauthserver.repository" />
+      <recent name="src.main.java.com.example.oauthserver.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OauthResourceServerApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.demo.Main" />
+      <module name="SecureAuthFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.springsecurityclient.SpringSecurityClientApplication" />
+      <module name="spring-security-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.springsecurityclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthAuthorizationServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="src.main.java.com.example.oauthserver.OauthAuthorizationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthAuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.oauthserver.OauthAuthorizationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Oauth-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Oauthresourceserver.OauthResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-security-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.springsecurityclient.SpringSecurityClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OauthAuthorizationServerApplication (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SpringSecurityClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b50ea43a-526e-41fa-ab0e-98ba99901651" name="Changes" comment="" />
+      <created>1692857427302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692857427302</updated>
+      <workItem from="1692857428774" duration="2291000" />
+      <workItem from="1692859889700" duration="3118000" />
+      <workItem from="1692863287048" duration="492000" />
+      <workItem from="1692863805693" duration="8688000" />
+      <workItem from="1692945077096" duration="1770000" />
+      <workItem from="1692947242307" duration="3493000" />
+      <workItem from="1692955203405" duration="3959000" />
+      <workItem from="1692959284643" duration="891000" />
+      <workItem from="1692960208023" duration="917000" />
+      <workItem from="1693201507876" duration="153000" />
+      <workItem from="1693201680808" duration="1353000" />
+      <workItem from="1693203060815" duration="2155000" />
+      <workItem from="1693205245873" duration="9065000" />
+      <workItem from="1693215000713" duration="162000" />
+      <workItem from="1693215715124" duration="6918000" />
+      <workItem from="1693294576384" duration="1790000" />
+      <workItem from="1693296651935" duration="12328000" />
+      <workItem from="1693373811226" duration="7074000" />
+      <workItem from="1693391141031" duration="3942000" />
+      <workItem from="1693395154983" duration="794000" />
+      <workItem from="1693468516975" duration="8007000" />
+      <workItem from="1693479690414" duration="1622000" />
+      <workItem from="1693488127236" duration="4554000" />
+      <workItem from="1693546826226" duration="6090000" />
+      <workItem from="1693806168534" duration="87000" />
+      <workItem from="1693807583842" duration="312000" />
+      <workItem from="1693808251137" duration="2482000" />
+      <workItem from="1693915829526" duration="291000" />
+      <workItem from="1693916166303" duration="1804000" />
+      <workItem from="1695719043355" duration="1234000" />
+      <workItem from="1695800338463" duration="44000" />
+      <workItem from="1695800477345" duration="24000" />
+      <workItem from="1695807961434" duration="316000" />
+      <workItem from="1695906003840" duration="879000" />
+      <workItem from="1698157440771" duration="586000" />
+      <workItem from="1703692087754" duration="651000" />
+      <workItem from="1703692786274" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
